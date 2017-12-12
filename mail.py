@@ -1,3 +1,4 @@
+#Enable access to SMTP form your respective email account, or else the script won't work
 import smtplib
 import getpass 
 maillst={'gmail':'smtp.gmail.com','hotmail':'smtp-mail.outlook.com','yahoo':'smtp.mail.yahoo.com','comcast':'smtp.comcast.net','at&t':'smpt.mail.att.net','verizon':'smtp.verizon.net'}
