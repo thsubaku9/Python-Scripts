@@ -2,7 +2,7 @@ import os
 import time
 import pyautogui
 from selenium import webdriver as wb
-os.chdir('C:\\Users\\MAHE\\Desktop')
+#os.chdir('C:\\Users\\MAHE\\Desktop')
 
 namels=list()
 finalls=list()
